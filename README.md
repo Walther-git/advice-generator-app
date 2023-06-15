@@ -19,6 +19,15 @@ Users should be able to:
 
 ### Screenshots
 
+#### Desktop
+
+<img  alt="Screen" src="https://raw.githubusercontent.com/Walther-git/advice-generator-app/main/screenshots/Desktop.png">
+
+
+#### Mobile
+
+<img  alt="Screen" src="https://raw.githubusercontent.com/Walther-git/advice-generator-app/main/screenshots/Mobile.png">
+
 
 ### Links
 
