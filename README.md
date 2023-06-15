@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution: [Solution-link](https://your-solution-url.com)
-- Live Site Demo: [Advice generator app solution](https://your-live-site-url.com)
+- Live Site Demo: [Advice generator app solution](https://walther-git.github.io/advice-generator-app/)
 
 ### Built with
 
