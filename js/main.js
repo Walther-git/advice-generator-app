@@ -33,7 +33,7 @@ const render = () => {
                 addRemoveClass(adviceTextId, 'opacity', '1500');
                 addRemoveClass(diceId, 'rotate', '500');
                 adviceId.textContent = `ADVICE #${id}`;
-                adviceTextId.textContent = `${advice}`;
+                adviceTextId.textContent = `"${advice}"`;
             }
             )
     }
