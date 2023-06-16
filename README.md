@@ -19,11 +19,20 @@ Users should be able to:
 
 ### Screenshots
 
+#### Desktop
+
+<img  alt="Screen" src="https://raw.githubusercontent.com/Walther-git/advice-generator-app/main/screenshots/Desktop.png">
+
+
+#### Mobile
+
+<img  alt="Screen" src="https://raw.githubusercontent.com/Walther-git/advice-generator-app/main/screenshots/Mobile.png">
+
 
 ### Links
 
-- Solution: [Solution-link](https://your-solution-url.com)
-- Live Site Demo: [Advice generator app solution](https://your-live-site-url.com)
+- Solution: [Solution-link](https://www.frontendmentor.io/solutions/simple-advice-generator-using-html-css-js-D-QGlEH9BR)
+- Live Site Demo: [Advice generator app solution](https://walther-git.github.io/advice-generator-app/)
 
 ### Built with
 
